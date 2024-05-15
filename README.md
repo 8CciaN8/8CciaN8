@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **8CciaN8/8CciaN8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/devccian"><img src="https://api.daily.dev/devcards/v2/7PRA3I0WJ6olN8QCx8qSK.png?type=default&r=pex" width="356" alt="Christian Casugay's Dev Card"/></a>
