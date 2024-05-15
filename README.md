@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <a href="https://app.daily.dev/devccian"><img src="https://api.daily.dev/devcards/v2/7PRA3I0WJ6olN8QCx8qSK.png?type=default&r=pex" width="356" alt="Christian Casugay's Dev Card"/></a>
+-->
+
+<a href="https://app.daily.dev/devccian"><img src="./devcard.png" width="356" alt="Christian Casugay's Dev Card"/></a>
