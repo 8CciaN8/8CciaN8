@@ -35,6 +35,12 @@ Feel free to check out my projects or connect with me!</p>
   <img width="48%" src="https://streak-stats.demolab.com/?user=8ccian8&theme=default&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=weekly&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&border_radius=2" alt="GitHub streak Card" />
 </p>
 
+**<h4>Acknowledgements</h4>**
+<ul>
+  <li>Special thanks to <a href="https://www.github-profile-generator.in/">GitHub Profile Generator</a> for helping with the layout and inspiration for my profile.</li>
+</ul>
+
+Powered by: https://www.github-profile-generator.in/
 
 <!--
 **8CciaN8/8CciaN8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
