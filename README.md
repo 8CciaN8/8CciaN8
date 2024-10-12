@@ -38,7 +38,6 @@ Feel free to check out my projects or connect with me!</p>
 **<h4>Acknowledgements</h4>**
 <ul>
   <li>Special thanks to <a href="https://www.github-profile-generator.in/" target="_blank">GitHub Profile Generator</a> for helping with the layout and inspiration for my profile.</li>
-  <li>Special thanks to <a href="#"  onclick='window.open("https://www.github-profile-generator.in/"); return false;'>GitHub Profile Generator</a> for helping with the layout and inspiration for my profile. </li>
 </ul>
 
 <!--
