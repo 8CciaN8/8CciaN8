@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/christian-casugay-bb3446114/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="18" style="margin-right: 4px"></a></h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/christian-casugay-bb3446114/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="18" style="margin-right: 4px"></a></h3>
 <p align="left"></p>
 
 <a href="https://app.daily.dev/devccian"><img src="./devcard.png" width="356" alt="Christian Casugay's Dev Card"/></a>
