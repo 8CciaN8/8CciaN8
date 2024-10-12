@@ -40,8 +40,6 @@ Feel free to check out my projects or connect with me!</p>
   <li>Special thanks to <a href="https://www.github-profile-generator.in/">GitHub Profile Generator</a> for helping with the layout and inspiration for my profile.</li>
 </ul>
 
-Powered by: https://www.github-profile-generator.in/
-
 <!--
 **8CciaN8/8CciaN8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
